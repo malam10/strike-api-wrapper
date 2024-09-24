@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrikeApiWrapper", "StrikeApiWrapper.csproj", "{C37230AF-3B37-4763-98A0-5461C7122823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrikeApiWrapperTests", "..\StrikeApiWrapperTests\StrikeApiWrapperTests.csproj", "{274F756D-0F08-4EDF-8B91-EE7A0D552C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C37230AF-3B37-4763-98A0-5461C7122823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37230AF-3B37-4763-98A0-5461C7122823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37230AF-3B37-4763-98A0-5461C7122823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37230AF-3B37-4763-98A0-5461C7122823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274F756D-0F08-4EDF-8B91-EE7A0D552C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274F756D-0F08-4EDF-8B91-EE7A0D552C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274F756D-0F08-4EDF-8B91-EE7A0D552C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274F756D-0F08-4EDF-8B91-EE7A0D552C95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AA0106E-0E33-4BDF-AD08-E538DE144582}
+	EndGlobalSection
+EndGlobal
